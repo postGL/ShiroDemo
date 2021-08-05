@@ -1,4 +1,4 @@
-package com.zbs;
+package com.zbs.test;
 
 import org.apache.shiro.SecurityUtils;
 import org.apache.shiro.authc.UsernamePasswordToken;

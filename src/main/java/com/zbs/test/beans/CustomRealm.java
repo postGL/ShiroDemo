@@ -1,4 +1,4 @@
-package com.zbs.beans;
+package com.zbs.test.beans;
 
 import org.apache.shiro.authc.AuthenticationException;
 import org.apache.shiro.authc.AuthenticationInfo;

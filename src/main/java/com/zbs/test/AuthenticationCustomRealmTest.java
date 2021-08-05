@@ -1,6 +1,6 @@
-package com.zbs;
+package com.zbs.test;
 
-import com.zbs.beans.CustomRealm;
+import com.zbs.test.beans.CustomRealm;
 import org.apache.shiro.SecurityUtils;
 import org.apache.shiro.authc.UsernamePasswordToken;
 import org.apache.shiro.mgt.DefaultSecurityManager;
