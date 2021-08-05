@@ -1,6 +1,6 @@
 package com.zbs;
 
-import com.zbs.beans.CustomRalm;
+import com.zbs.beans.CustomRealm;
 import org.apache.shiro.SecurityUtils;
 import org.apache.shiro.authc.UsernamePasswordToken;
 import org.apache.shiro.mgt.DefaultSecurityManager;
@@ -13,13 +13,13 @@ import org.junit.Test;
  * author: zhangbs
  * version: 1.0
  */
-public class AuthenticationCustomRalmTest {
+public class AuthenticationCustomRealmTest {
 
     @Test
     public void testAuthentication() {
 
         // 实现自己的 Realm 实例
-        CustomRalm myRealm = new CustomRalm();
+        CustomRealm myRealm = new CustomRealm();
 
         // 1.构建SecurityManager环境
         DefaultSecurityManager defaultSecurityManager = new DefaultSecurityManager();

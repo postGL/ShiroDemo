@@ -20,7 +20,7 @@ import java.util.Set;
  * author: zhangbs
  * version: 1.0
  */
-public class CustomRalm extends AuthorizingRealm {
+public class CustomRealm extends AuthorizingRealm {
 
     /**
      * 模拟数据库数据
