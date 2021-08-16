@@ -11,7 +11,7 @@
 	</parent>
 
 	<groupId>com.zbs</groupId>
-	<artifactId>shiro</artifactId>
+	<artifactId>shiroDemo</artifactId>
 	<version>1.0-SNAPSHOT</version>
 
 	<dependencies>
